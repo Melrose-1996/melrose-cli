@@ -17,10 +17,10 @@
   ],
   "author": "melrose",
   "license": "MIT",
-  "homepage": "https://github.com/coderwhy/coderwhy",
+  "homepage": "https://github.com/Melrose-1996/melrose-cli.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/coderwhy/coderwhy"
+    "url": "https://github.com/Melrose-1996/melrose-cli.git"
   },
   "dependencies": {
     "chalk": "^4.1.0",
